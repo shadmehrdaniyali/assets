@@ -1,0 +1,22 @@
+Logo : https://drive.google.com/file/d/1Jla8wO044vnXycMR1jF3MHLovtCUTAXr/view?usp=drive_link
+
+
+info : {
+  "name": "USDTB",
+  "symbol": "USDTB",
+  "decimals": 9,
+  "address": "0x1fB29f01fbBD58D169327885664b07Be51c8F9F9",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1fB29f01fbBD58D169327885664b07Be51c8F9F9/logo.png",
+  "website": "https://www.usdtbcrypto.com",
+  "description": "USDTB is a stable cryptocurrency token designed for reliability, value consistency, and integration with DeFi ecosystems.",
+  "status": "active",
+  "tags": [
+    "USDTB",
+    "token",
+    "stablecoin",
+    "usd-backed",
+    "defi",
+    "dex"
+  ]
+}
